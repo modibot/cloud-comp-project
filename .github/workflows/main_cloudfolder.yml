@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'cloudfolder'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D30962898BBE46E1AC0FF646ECB1F6FC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99015875936F4521AACF9C640746C4BA }}
           package: .
